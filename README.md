@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/62fb9bd0-0352-4874-9727-6c97ec544ff3)
+
+
+                  
+                   Hi there! 👋 I’m Venkata Rama Surya Lakshmi Mogili
+
 - 👋 Hi, I’m Venkata Rama Surya Lakshmi Mogili
 - 👀 I’m passionate about data analysis, software development, and building real-world projects.
 - 🌱 I’m currently learning Django and REST APIs to strengthen my backend skills.
